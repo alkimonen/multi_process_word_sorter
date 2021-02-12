@@ -19,8 +19,11 @@ After compilation, the execution command is given below.
 ./programName N in1 in2 ... inN outputFile
 ```
 **programName:** Name of the program to be executed. (pwc or twc)
+
 **N:** Number of imput files.
+
 **in1, in2, ..., inN:** Directories of input files.
+
 **outputFile:** Directory of output file.
 
 An example to execute twc with 3 input files can be
