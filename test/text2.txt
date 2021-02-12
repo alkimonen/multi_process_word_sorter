@@ -1,0 +1,48 @@
+For some remote sensing instruments, the distance between the target being imaged and the
+platform, plays a large role in determining the detail of information obtained and the total area
+imaged by the sensor. Sensors onboard platforms far away from their targets, typically view a
+larger area, but cannot provide great detail. Compare what an astronaut onboard the space
+shuttle sees of the Earth to what you can see from an airplane. The astronaut might see your
+whole province or country in one glance, but couldn't distinguish individual houses. Flying over
+a city or town, you would be able to see individual buildings and cars, but you would be
+viewing a much smaller area than the astronaut. There is a similar difference between satellite
+images and airphotos.
+The detail discernible in an image is dependent on the
+spatial resolution of the sensor and refers to the size of
+the smallest possible feature that can be detected.
+Spatial resolution of passive sensors (we will look at the
+special case of active microwave sensors later) depends
+primarily on their Instantaneous Field of View (IFOV).
+The IFOV is the angular cone of visibility of the sensor (A)
+and determines the area on the Earth's surface which is
+"seen" from a given altitude at one particular moment in
+time (B). The size of the area viewed is determined by
+multiplying the IFOV by the distance from the ground to
+the sensor (C). This area on the ground is called the
+resolution cell and determines a sensor's maximum
+spatial resolution. For a homogeneous feature to be
+detected, its size generally has to be equal to or larger than the resolution cell. If the feature is
+smaller than this, it may not be detectable as the average brightness of all features in that
+resolution cell will be recorded. However, smaller features may sometimes be detectable if
+their reflectance dominates within a articular resolution cell allowing sub-pixel or resolution cell
+detection.
+As we mentioned in Chapter 1, most remote sensing images are composed of a matrix of
+picture elements, or pixels, which are the smallest units of an image. Image pixels are
+normally square and represent a certain area on an image. It is important to distinguish
+between pixel size and spatial resolution - they are not interchangeable. If a sensor has a
+spatial resolution of 20 metres and an image from that sensor is displayed at full resolution,
+each pixel represents an area of 20m x 20m on the ground. In this case the pixel size and
+resolution are the same. However, it is possible to display an image with a pixel size different
+than the resolution. Many posters of satellite images of the Earth have their pixels averaged to
+represent larger areas, although the original spatial resolution of the sensor that collected the
+imagery remains the same. Images where only large features are visible are said to have coarse or low resolution. In
+fine or high resolution images, small objects can be detected. Military sensors for example,
+are designed to view as much detail as possible, and therefore have very fine resolution.
+Commercial satellites provide imagery with resolutions varying from a few metres to several
+kilometres. Generally speaking, the finer the resolution, the less total ground area can be
+seen.
+The ratio of distance on an image or map, to actual ground distance is referred to as scale. If
+you had a map with a scale of 1:100,000, an object of 1cm length on the map would actually
+be an object 100,000cm (1km) long on the ground. Maps or images with small "map-to-ground
+ratios" are referred to as small scale (e.g. 1:100,000), and those with larger ratios (e.g.
+1:5,000) are called large scale.

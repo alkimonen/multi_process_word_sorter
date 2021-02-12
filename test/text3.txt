@@ -1,0 +1,63 @@
+Cameras and their use for aerial photography are the simplest and
+oldest of sensors used for remote sensing of the Earth's surface.
+Cameras are framing systems which acquire a near-instantaneous
+"snapshot" of an area (A), of the surface. Camera systems are
+passive optical sensors that use a lens (B) (or system of lenses
+collectively referred to as the optics) to form an image at the focal
+plane (C), the plane at which an image is sharply defined.
+Photographic films are sensitive to light from 0.3 μm to 0.9 μm in
+wavelength covering the ultraviolet (UV), visible, and near-infrared
+(NIR). Panchromatic films are sensitive to the UV and the visible
+portions of the spectrum. Panchromatic film produces black and white
+images and is the most common type of film used for aerial
+photography. UV photography also uses panchromatic film, but a filter is used with the
+camera to absorb and block the visible energy from reaching the film. As a result, only the UV
+reflectance from targets is recorded. UV photography is not widely used, because of the
+atmospheric scattering and absorption that occurs in this region of the spectrum. Black and
+white infrared photography uses film sensitive to the entire 0.3 to 0.9 μm wavelength range
+and is useful for detecting differences in vegetation cover, due to its sensitivity to IR
+reflectance.
+Colour and false colour (or colour infrared, CIR) photography involves the use of a three layer
+film with each layer sensitive to different ranges of light. For a normal colour photograph,
+the layers are sensitive to blue, green, and red light - the same as our eyes. These photos
+appear to us the same way that our eyes see the environment, as the colours resemble those
+which would appear to us as "normal" (i.e. trees appear green, etc.). In colour infrared (CIR)
+photography, the three emulsion layers are sensitive to green, red, and the photographic
+portion of near-infrared radiation, which are processed to appear as blue, green, and red,respectively. In a false colour photograph, targets with high near-infrared reflectance appear
+red, those with a high red reflectance appear green, and those with a high green reflectance
+appear blue, thus giving us a "false" presentation of the targets relative to the colour we
+normally perceive them to be.
+Cameras can be used on a variety of platforms including ground-based stages, helicopters,
+aircraft, and spacecraft. Very detailed photographs taken from aircraft are useful for many
+applications where identification of detail or small targets is required. The ground coverage of
+a photo depends on several factors, including the focal length of the lens, the platform
+altitude, and the format and size of the film. The focal length effectively controls the angular
+field of view of the lens (similar to the concept of instantaneous field of view discussed in
+section 2.3) and determines the area "seen" by the camera. Typical focal lengths used are
+90mm, 210mm, and most commonly, 152mm. The longer the focal length, the smaller the
+area covered on the ground, but with greater detail (i.e. larger scale). The area covered also
+depends on the altitude of the platform. At high altitudes, a camera will "see" a larger area on
+the ground than at lower altitudes, but with reduced detail (i.e. smaller scale). Aerial photos
+can provide fine detail down to spatial resolutions of less than 50 cm. A photo's exact spatial
+resolution varies as a complex function of many factors which vary with each acquisition of
+data.
+Most aerial photographs are classified as either
+oblique or vertical, depending on the
+orientation of the camera relative to the ground
+during acquisition. Oblique aerial
+photographs are taken with the camera
+pointed to the side of the aircraft. High oblique
+photographs usually include the horizon while
+low oblique photographs do not. Oblique
+photographs can be useful for covering very
+large areas in a single image and for depicting
+terrain relief and scale. However, they are not widely used for mapping as distortions in scale
+from the foreground to the background preclude easy measurements of distance, area, and
+elevation.
+Vertical photographs taken with a single-lens frame camera is the most common use of
+aerial photography for remote sensing and mapping purposes. These cameras are specifically
+built for capturing a rapid sequence of photographs while limiting geometric distortion. They
+are often linked with navigation systems onboard the aircraft platform, to allow for accurate
+geographic coordinates to be instantly assigned to each photograph. Most camera systems
+also include mechanisms which compensate for the effect of the aircraft motion relative to the
+ground, in order to limit distortion as much as possible.

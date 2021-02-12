@@ -1,0 +1,59 @@
+Landsat
+Although many of the weather satellite systems
+(such as those described in the previous section)
+are also used for monitoring the Earth's surface,
+they are not optimized for detailed mapping of the
+land surface. Driven by the exciting views from, and
+great success of the early meteorological satellites
+in the 1960's, as well as from images taken during
+manned spacecraft missions, the first satellite
+designed specifically to monitor the Earth's surface,
+Landsat-1, was launched by NASA in 1972. Initially
+referred to as ERTS-1, (Earth Resources
+Technology Satellite), Landsat was designed as an
+experiment to test the feasibility of collecting multi-spectral Earth observation data
+from an unmanned satellite platform. Since that time, this highly successful program
+has collected an abundance of data from around the world from several Landsat
+satellites. Originally managed by NASA, responsibility for the Landsat program was
+transferred to NOAA in 1983. In 1985, the program became commercialized,
+providing data to civilian and applications users.
+Landsat's success is due to several factors, including: a combination of sensors with spectral
+bands tailored to Earth observation; functional spatial resolution; and good areal coverage
+(swath width and revisit period). The long lifespan of the program has provided a voluminous
+archive of Earth resource data facilitating long term monitoring and historical records and
+research. All Landsat satellites are placed in near-polar, sun-synchronous orbits. The first
+three satellites (Landsats 1-3) are at altitudes around 900 km and have revisit periods of 18
+days while the later satellites are at around 700 km and have revisit periods of 16 days. All
+Landsat satellites have equator crossing times in the morning to optimize illumination
+conditions.
+A number of sensors have been on board the Landsat series of satellites, including the
+Return Beam Vidicon (RBV) camera systems, the MultiSpectral Scanner (MSS) systems,
+and the Thematic Mapper (TM). The most popular instrument in the early days of Landsat
+was the MultiSpectral Scanner (MSS) and later the Thematic Mapper (TM). Each of these
+sensors collected data over a swath width of 185 km, with a full scene being defined as 185
+km x 185 km.
+The MSS senses the electromagnetic radiation from the Earth's surface in four spectral
+bands. Each band has a spatial resolution of approximately 60 x 80 metres and a radiometric
+resolution of 6 bits, or 64 digital numbers. Sensing is accomplished with a line scanning
+device using an oscillating mirror. Six scan lines are collected simultaneously with each westto-
+east sweep of the scanning mirror. The accompanying table outlines the spectral
+wavelength ranges for the MSS.Routine collection of MSS data ceased in 1992, as the use of TM data, starting on Landsat 4,
+superseded the MSS. The TM sensor provides several improvements over the MSS sensor
+including: higher spatial and radiometric resolution; finer spectral bands; seven as opposed to
+four spectral bands; and an increase in the number of detectors per band (16 for the nonthermal
+channels versus six for MSS). Sixteen scan lines are captured simultaneously for
+each non-thermal spectral band (four for thermal band), using an oscillating mirror which
+scans during both the forward (west-to-east) and reverse (east-to-west) sweeps of the
+scanning mirror. This difference from the MSS increases the dwell time (see section 2.8) and
+improves the geometric and radiometric integrity of the data. Spatial resolution of TM is 30 m
+for all but the thermal infrared band which is 120 m. All channels are recorded over a range of
+256 digital numbers (8 bits). The accompanying table outlines the spectral resolution of the
+individual TM bands and some useful applications of each.Data from both the TM and MSS sensors are used
+for a wide variety of applications, including resource
+management, mapping, environmental monitoring,
+and change detection (e.g. monitoring forest
+clearcutting). The archives of Canadian imagery
+include over 350,000 scenes of MSS and over
+200,000 scenes of TM, managed by the licensed
+distributor in Canada: RSI Inc. Many more scenes
+are held by foreign facilities around the world.

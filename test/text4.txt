@@ -1,0 +1,76 @@
+Many electronic (as opposed to photographic) remote sensors acquire data using scanning
+systems, which employ a sensor with a narrow field of view (i.e. IFOV) that sweeps over the
+terrain to build up and produce a two-dimensional image of the surface. Scanning systems
+can be used on both aircraft and satellite platforms and have essentially the same operating
+principles. A scanning system used to collect data over a variety of different wavelength
+ranges is called a multispectral scanner (MSS), and is the most commonly used scanning
+system. There are two main modes or methods of scanning employed to acquire multispectral
+image data - across-track scanning, and along-track scanning.
+Across-track scanners scan the Earth in a
+series of lines. The lines are oriented
+perpendicular to the direction of motion of the
+sensor platform (i.e. across the swath). Each line
+is scanned from one side of the sensor to the
+other, using a rotating mirror (A). As the
+platform moves forward over the Earth,
+successive scans build up a two-dimensional
+image of the Earth´s surface. The incoming
+reflected or emitted radiation is separated into
+several spectral components that are detected
+independently. The UV, visible, near-infrared,
+and thermal radiation are dispersed into their
+constituent wavelengths. A bank of internal detectors (B), each sensitive to a specific range
+of wavelengths, detects and measures the energy for each spectral band and then, as an
+electrical signal, they are converted to digital data and recorded for subsequent computer
+processing.
+The IFOV (C) of the sensor and the altitude of the platform determine the ground resolution
+cell viewed (D), and thus the spatial resolution. The angular field of view (E) is the sweep of
+the mirror, measured in degrees, used to record a scan line, and determines the width of the
+imaged swath (F). Airborne scanners typically sweep large angles (between 90º and 120º),
+while satellites, because of their higher altitude need only to sweep fairly small angles (10-
+20º) to cover a broad region. Because the distance from the sensor to the target increases
+towards the edges of the swath, the ground resolution cells also become larger and introduce
+geometric distortions to the images. Also, the length of time the IFOV "sees" a ground
+resolution cell as the rotating mirror scans (called the dwell time), is generally quite short and
+influences the design of the spatial, spectral, and radiometric resolution of the sensor.Along-track scanners also use the forward motion
+of the platform to record successive scan lines and
+build up a two-dimensional image, perpendicular to
+the flight direction. However, instead of a scanning
+mirror, they use a linear array of detectors (A)
+located at the focal plane of the image (B) formed
+by lens systems (C), which are "pushed" along in
+the flight track direction (i.e. along track). These
+systems are also referred to as pushbroom
+scanners, as the motion of the detector array is
+analogous to the bristles of a broom being pushed
+along a floor. Each individual detector measures the
+energy for a single ground resolution cell (D) and
+thus the size and IFOV of the detectors determines
+the spatial resolution of the system. A separate linear array is required to measure each
+spectral band or channel. For each scan line, the energy detected by each detector of each
+linear array is sampled electronically and digitally recorded.
+Along-track scanners with linear arrays have several advantages over across-track mirror
+scanners. The array of detectors combined with the pushbroom motion allows each detector
+to "see" and measure the energy from each ground resolution cell for a longer period of time
+(dwell time). This allows more energy to be detected and improves the radiometric resolution.
+The increased dwell time also facilitates smaller IFOVs and narrower bandwidths for each
+detector. Thus, finer spatial and spectral resolution can be achieved without impacting
+radiometric resolution. Because detectors are usually solid-state microelectronic devices, they
+are generally smaller, lighter, require less power, and are more reliable and last longer
+because they have no moving parts. On the other hand, cross-calibrating thousands of
+detectors to achieve uniform sensitivity across the array is necessary and complicated.
+Regardless of whether the scanning system used is either of these two types, it has several
+advantages over photographic systems. The spectral range of photographic systems is
+restricted to the visible and near-infrared regions while MSS systems can extend this range
+into the thermal infrared. They are also capable of much higher spectral resolution than
+photographic systems. Multi-band or multispectral photographic systems use separate lens
+systems to acquire each spectral band. This may cause problems in ensuring that the
+different bands are comparable both spatially and radiometrically and with registration of the
+multiple images. MSS systems acquire all spectral bands simultaneously through the same
+optical system to alleviate these problems. Photographic systems record the energy detected
+by means of a photochemical process which is difficult to measure and to make consistent.
+Because MSS data are recorded electronically, it is easier to determine the specific amount of
+energy measured, and they can record over a greater range of values in a digital format.
+Photographic systems require a continuous supply of film and processing on the ground after
+the photos have been taken. The digital recording in MSS systems facilitates transmission ofdata to receiving stations on the ground and immediate processing of data in a computer
+environment.
