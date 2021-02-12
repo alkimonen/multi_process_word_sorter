@@ -1,5 +1,5 @@
 # Word Sorter for Multiple Files
-This project sorts the words in ascending order in multiple files using multiple processes in **C**. Program first reads the files then sorts all words together into an output file.
+This project sorts the words in ascending order in multiple files using multiple processes in **C programming language**. Program first reads the files then sorts all words together into an output file.
 
 There are two different implementations in the project, *pwc* and *twc*. Both of them takes arguments in terminal. These arguments include number of files, input file names and output file names with the directories. Execution process and the order of arguments will be given below.
 
