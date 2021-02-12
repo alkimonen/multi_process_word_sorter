@@ -1,0 +1,31 @@
+The next portion of the spectrum of interest is
+the infrared (IR) region which covers the
+wavelength range from approximately 0.7 μm
+to 100 μm - more than 100 times as wide as
+the visible portion! The infrared region can be
+divided into two categories based on their
+radiation properties - the reflected IR, and
+the emitted or thermal IR. Radiation in the
+reflected IR region is used for remote sensing
+purposes in ways very similar to radiation in
+the visible portion. The reflected IR covers
+wavelengths from approximately 0.7 μm to
+3.0 μm. The thermal IR region is quite
+different than the visible and reflected IR
+portions, as this energy is essentially the
+radiation that is emitted from the Earth's
+surface in the form of heat. The thermal IR
+covers wavelengths from approximately 3.0
+μm to 100 μm.
+The portion of the spectrum of more recent
+interest to remote sensing is the microwave
+region from about 1 mm to 1 m. This covers
+the longest wavelengths used for remote
+sensing. The shorter wavelengths have
+properties similar to the thermal infrared
+region while the longer wavelengths approach
+the wavelengths used for radio broadcasts.
+Because of the special nature of this region
+and its importance to remote sensing in
+Canada, an entire chapter (Chapter 3) of the
+tutorial is dedicated to microwave sensing.
