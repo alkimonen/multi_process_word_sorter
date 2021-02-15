@@ -28,7 +28,7 @@ After compilation, the execution command is given below.
 
 An example to execute twc with 3 input files can be
 ```
-./pwc 3 text1.txt text2.txt text3.txt results.txt
+./pwc 3 test/text1.txt test/text2.txt test/text3.txt results.txt
 ```
 
-**P.S.** Reading more than 5 files are not recommended. The program supports more than that number of input files, however, it is not recommended as some problems may occur.
+**P.S.** Reading more than 10 files are not recommended. The program supports more than that number of input files, however, it is not recommended as some problems may occur.
